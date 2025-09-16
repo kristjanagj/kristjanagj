@@ -10,7 +10,7 @@
 
 ☁️ Cloud: Azure, Docker, GitLab, Azure DevOps
 
-📊 Methodologies: SCRUM, Agile, TDD, BDD
+📊 Methodologies: SCRUM, Agile
 
 🌐 Interests: Web Design, Web Performance Optimization, System Design, Single Page Applications
 

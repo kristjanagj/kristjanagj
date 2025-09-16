@@ -12,9 +12,12 @@
 
 📊 Methodologies: SCRUM, Agile, TDD, BDD
 
-🌐 Interests: Web Design, Web Performance Optimization, Single Page Applications
+🌐 Interests: Web Design, Web Performance Optimization, System Design, Single Page Applications
 
 Links of side projects I deployed:
+</br>
 https://language-app-alsp.netlify.app/
+</br>
 https://my-cinema-a.netlify.app/
+</br>
 https://vegan-recipes-book.netlify.app/
